@@ -1,0 +1,17 @@
+{
+  "name": "disco",
+  "version": "1.0.0",
+  "description": "A way to archive URLs from the saftey of Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "Adrian Jones",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
+}
